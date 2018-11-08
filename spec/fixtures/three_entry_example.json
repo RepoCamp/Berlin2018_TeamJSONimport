@@ -1,0 +1,17 @@
+[
+  {
+    "name": "dog.jpg",
+    "title": "A Cute Dog",
+    "source": "https://www.pexels.com/photo/animal-blur-canine-close-up-551628/"
+  },
+  {
+    "name": "cat.jpg",
+    "title": "An Interesting Cat",
+    "source": "https://www.pexels.com/photo/person-holding-white-cat-1383397/"
+  },
+  {
+    "name": "birds.jpg",
+    "title": "A Flock of Birds",
+    "source": "https://www.pexels.com/photo/animal-avian-beak-birds-203088/"
+  }
+]

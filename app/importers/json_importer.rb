@@ -8,9 +8,13 @@ class JsonImporter
   end
 
   def import
-  # function fo handling json files in ruby ? 
-  
-  
+    # function fo handling json files in ruby ? 
+
+    jsonentry = JSON.parse(File.read(@file))
+
+
+
+
   end
 
 end

@@ -16,7 +16,7 @@ RSpec.describe JsonImporter do
   
 
   it "imports a json file" do
-    expect { JsonImporter.new(three_entry_example).import }.to change { Image.count }.by 3
+    expect { JsonImporter.new(one_entry_example).import }.to change { Image.count }.by 1
   end
 
   
