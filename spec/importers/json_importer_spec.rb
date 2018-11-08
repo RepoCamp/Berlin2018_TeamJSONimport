@@ -16,7 +16,8 @@ RSpec.describe JsonImporter do
   
 
   it "imports a json file" do
-    expect { JsonImporter.new(one_entry_example).import }.to change { Image.count }.by 1
+#    insert check crit for read
+#    expect (read_entry[key]).to eq "value"
   end
 
   
